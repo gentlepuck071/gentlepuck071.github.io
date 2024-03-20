@@ -5,7 +5,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaTelegram } from "react-icons/fa";
 import './Social.css'
 
 const Social = () => {
@@ -22,7 +22,7 @@ const Social = () => {
                 <ul className="contact-social-links">
                   <li className="contact-icons">
                     <a
-                      href="https://github.com/Avanishsri31"
+                      href="https://github.com/Green0318"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -32,17 +32,17 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://twitter.com/Avanish66224549"
+                      href="https://t.me/gentlepuck071"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
                     >
-                      <AiOutlineTwitter />
+                      <FaTelegram />
                     </a>
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://www.linkedin.com/in/avanish-srivastava-533035203/"
+                      href="https://www.linkedin.com/in/smartpuck/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -50,16 +50,16 @@ const Social = () => {
                       <FaLinkedinIn />
                     </a>
                   </li>
-                  <li className="contact-icons">
+                  {/* <li className="contact-icons">
                     <a
-                      href="https://www.instagram.com/avanishsri31/"
+                      href="https://"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color contact-social-icons"
                     >
                       <AiFillInstagram />
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </Col>
             </Row>

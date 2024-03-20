@@ -20,43 +20,38 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Avanish Srivastava </span>
-                 and I'm from <span className="yellow"> Gorakhpur, UttarPradesh, India.</span>
+                 Hi, my name is <span className="yellow">Hukuda Takuya </span>
+                 and I'm from <span className="yellow"> Kuala Lumpur in Malaysia.</span>
                 <br />
                 <br />
-                I am currently a 4th-year undergraduate in the Computer Science and Engineering Concentration at Pranveer Singh Institute of Technology, Kanpur.
+                With a solid 6-year background in smart contract and Web3 development, I bring expertise across multiple blockchain platforms including Ethereum, Cardano, Tron, and ICP. 
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> Full-Stack </b>developer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  <b className="yellow"> Senior </b>developer, committed to fostering a positive and collaborative atmosphere, I strive to deliver innovative decentralized solutions while embracing a friendly and approachable demeanor.
+                  Proficient in 
                   <br />
-                  <br />I am proficient in
-                    <b className="yellow"> C++ </b>
-                    as well as have knowledge in programming languages such as C, Python, Javascript
-                  <b className="yellow"> and Solidity.</b>
+                  <br />I am proficient in both
+                    <b className="yellow"> Solidity </b>
+                    and <b className="yellow"> Rust </b>, I've successfully deployed contracts on <b className="yellow"> Ethereum </b>, <b className="yellow"> Solana </b>, and <b className="yellow"> Near </b> protocols, utilizing tools like Hardhat, Truffle, Brownie, and Embark.
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
+                  with <b className="yellow">Node.js, MongoDB, Golang, Nest.js</b> and
                   <i>
                     <b className="yellow">
                       {" "}
-                      modern Javascript libraries and frameworks
+                      modern TypeScript frameworks
                     </b>
                   </i>
                   &nbsp; like
                   <i>
-                    <b className="yellow"> React.js</b>
+                    <b className="yellow"> Next.js</b>
                   </i>
                   <br />
                   <br />
-                  I am also interested in building new
-                  <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
-                    <b className="yellow"> Blockchain.</b>
-                  </i>
+                  I've contributed to numerous projects utilizing Hugging Face's models and libraries, particularly focusing on <b className="yellow"> natural language processing (NLP) </b> tasks.
+                  
                   <br />
                   
                 </p>
@@ -76,7 +71,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/Avanishsri31"
+                      href="https://github.com/gentlepuck071"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -87,7 +82,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/Avanish66224549"
+                      href="https://twitter.com/gentlepuck071"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +93,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/avanish-srivastava-533035203/"
+                      href="https://www.linkedin.com/in/gentlepuck071/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -109,7 +104,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/avanishsri31/"
+                      href="https://www.instagram.com/gentlepuck071/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"

@@ -18,14 +18,14 @@ const Footer = () => {
             <span>Dedicated to creating impactful solutions!</span>
           </Col>
           <Col md="4" className="footer-copywright">
-            <span>Copyright © {year}</span>
+            <span>Copyright © {year} &nbsp;</span>
             <img src={logo} className="img-fluid logo" alt="brand" />
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Avanishsri31"
+                  href="https://github.com/Green0318"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -34,7 +34,7 @@ const Footer = () => {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Avanish66224549"
                   style={{ color: "white" }}
@@ -44,10 +44,10 @@ const Footer = () => {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/avanish-srivastava-533035203/"
+                  href="https://www.linkedin.com/in/smartpuck"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -56,7 +56,7 @@ const Footer = () => {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/avanishsri31/"
                   style={{ color: "white" }}
@@ -66,7 +66,7 @@ const Footer = () => {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>

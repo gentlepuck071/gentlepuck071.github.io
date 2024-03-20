@@ -160,6 +160,7 @@ html {
   .logo {
     height: 2em !important;
     width: 5.5em !important;
+    border-radius: 10px;
   }
   
   .navbar-nav .nav-link {
@@ -274,12 +275,12 @@ html {
   }
   
   .heading {
-    font-size: 2.4em !important;
+    font-size: 3em !important;
     padding-left: 50px !important;
   }
   
   .heading-name {
-    font-size: 2.5em !important;
+    font-size: 3em !important;
     padding-left: 45px !important;
   }
   
@@ -394,7 +395,7 @@ html {
   
   .home-about-body {
     padding-top: 50px;
-    font-size: 1.2em !important;
+    font-size: 2em !important;
     text-align: left;
   }
   

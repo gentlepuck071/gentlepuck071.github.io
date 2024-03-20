@@ -7,6 +7,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
+  SiRust, SiEthereum, SiTypescript, SiPython, SiHaskell,SiDocker,SiDjango,
   SiCss3,
   SiSass,
   SiSolidity,
@@ -19,10 +20,16 @@ const Techstack = () => {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHtml5 />
+        <SiSolidity />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <SiRust />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiEthereum />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
@@ -31,17 +38,23 @@ const Techstack = () => {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
+        <SiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSass />
+        <SiHaskell />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiDocker />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDjango />
+      </Col>    
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSass />
+      </Col>    
       <Col xs={4} md={2} className="tech-icons">
         <SiCss3 />
       </Col>
